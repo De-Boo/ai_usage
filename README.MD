@@ -83,7 +83,7 @@ The graph shows the  count of how many times a particular outcome, such as "Assi
 We can see that undergradutes makes use of AI in their studies the most, followed by graduates then High schoolers.
 we can see that after years of schooling individual usage of AI in studies reduces.
 
-# Task Type Session Data
+# Task Type Session
 
 | Task Type         | Total Session Length (min) |
 |--------------------|----------------------------|
