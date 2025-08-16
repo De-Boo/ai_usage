@@ -22,9 +22,8 @@ This study was done to illustrate how student utilizes AI  in their studies.
 - TaskType: Nature of the task (e.g., Coding, Writing, Research)
 - AI_AssistanceLevel: 1–5 scale on how helpful the AI was perceived to be
 ## Analysis breakdown
-#### Which discipline uses AI the most
-| Discipline | Session Length (min) | Total Prompts |
-# Session Data
+### Discipline based usage of AI assistants: session lengths and total prompts
+
 
 | Discipline         | Session Length (min) | Total Prompts |
 |--------------------|----------------------|---------------|
